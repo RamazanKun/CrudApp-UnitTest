@@ -1,5 +1,5 @@
 ﻿<h1>Crud App</h1>
-<h4> Unit-test focused crud-app project / Unit-test odaklı bir crud-app projesi</h4>
+<h4> Unit-test focused crud-app project / Unit-test odaklı bir crud-app projesi.</h4>
 
 
 <h2>Used Technologies / Kullanılan Teknolojiler</h2>
